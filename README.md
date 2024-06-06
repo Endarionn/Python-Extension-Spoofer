@@ -40,6 +40,3 @@ Kodu kopyala
 Enter the full path of the original file (with extension): /path/to/your/file.txt
 Enter the new extension (without dot): png
 After running the program, the file file.txt will be renamed in such a way that it appears as filegnp.txt.
-
-⚠️ Disclaimer
-This tool is designed for educational and testing purposes. Use it responsibly and ethically. The RLO technique can be used maliciously, so it's important to understand both its power and its potential for misuse.
