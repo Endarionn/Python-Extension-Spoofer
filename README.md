@@ -25,7 +25,7 @@ Installation
 
 1. Clone the repository:
 
-    git clone https://github.com/yourusername/rlo-extension-changer.git
+    git clone https://github.com/atalayagiz/rlo-extension-changer.git
     cd rlo-extension-changer
 
 2. Run the script:
@@ -83,15 +83,3 @@ License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
-
-Contact
-
-If you have any questions, feel free to reach out:
-
-- GitHub: @yourusername
-- Email: your.email@example.com
-
----
-
-Thank you for checking out the RLO File Extension Changer! Happy coding! 🎉
